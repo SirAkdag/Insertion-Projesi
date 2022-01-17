@@ -19,7 +19,7 @@ Dizinin Big-O gösterimi ise; n²
 * *Worst Case*: Aradigimiz sayinin sonda olmasi. 
 * *Best Case*: Aradigimiz sayinin en basta olmasi.
 
-Yukaridaki durumlara göre 18 sayinin yerini inceleyecek olursak, bu durum ***Average Case*** kapsamina girdigini belirtebiliriz.
+Yukaridaki durumlara göre 18 sayinin yerini inceleyecek olursak, bu durumun ***Average Case*** kapsamina girdigini belirtebiliriz.
 
 [7,3,5,8,2,9,4,15,6] dizininin ilk dört asamasi asagidaki sekildedir ;
 
